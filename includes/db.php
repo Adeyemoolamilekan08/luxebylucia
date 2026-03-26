@@ -17,8 +17,8 @@ define('CURRENCY', '₦');
 define('SHIPPING_FEE', 3000);       // In Naira
 
 // Paystack
-define('PAYSTACK_PUBLIC_KEY', 'pk_test_YOUR_PAYSTACK_PUBLIC_KEY');
-define('PAYSTACK_SECRET_KEY', 'sk_test_YOUR_PAYSTACK_SECRET_KEY');
+define('PAYSTACK_PUBLIC_KEY', 'pk_test_fb44af4dc6172d9ee69fd452d4d3f188a9738b9e');
+define('PAYSTACK_SECRET_KEY', 'sk_test_e4edaef1498d8037f49a728c59535f10b0b86738');
 
 // PDO Connection
 try {
